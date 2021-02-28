@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelAndPictureBox", "LabelAndPictureBox\LabelAndPictureBox.csproj", "{08FA3C3E-89C4-418E-ADC8-109FE5797AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08FA3C3E-89C4-418E-ADC8-109FE5797AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FA3C3E-89C4-418E-ADC8-109FE5797AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FA3C3E-89C4-418E-ADC8-109FE5797AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FA3C3E-89C4-418E-ADC8-109FE5797AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8478EA83-896D-4485-A690-7D7C70339E46}
+	EndGlobalSection
+EndGlobal
